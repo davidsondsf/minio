@@ -1,3 +1,21 @@
+> [!IMPORTANT]
+> ## This is an unmodified mirror — not the MinIO project
+>
+> This repository is a fork of [`minio/minio`](https://github.com/minio/minio), kept for one reason:
+> to preserve the **corresponding source** of a container image mirror
+> (`ghcr.io/davidsondsf/minio`, MinIO `RELEASE.2025-09-07T16-13-09Z`), because the upstream
+> repository is archived and a source pointer that depends on someone else's repository staying
+> online is not a pointer.
+>
+> No code was added, removed, or patched. **Not affiliated with, endorsed by, or sponsored by
+> MinIO, Inc.** — "MinIO" is their trademark, used here only to identify the mirrored software.
+> Details, exact tag/commit correspondence, and a rename/takedown offer are in
+> [`NOTICE-MIRROR.md`](NOTICE-MIRROR.md).
+>
+> Everything below is MinIO's original README, unchanged.
+
+---
+
 > [!NOTE]
 > **THIS REPOSITORY IS NO LONGER MAINTAINED.**
 >
